@@ -49,7 +49,7 @@
           <h4 class="mt-5">Lead</h4>
           <p>Make a paragraph stand out by adding <code class="highlighter-rouge">.lead</code>.</p>
           <div class="widget-padding-md w-100 h-100 text-left border rounded">
-            <p class="lead">云票儿dashboard template built with Bootstrap</p>
+            <p class="lead">Vue Admindashboard template built with Bootstrap</p>
           </div>
         </Widget>
       </b-col>

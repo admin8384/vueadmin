@@ -6,7 +6,7 @@
         @mouseleave="sidebarMouseLeave"
     >
       <header class="logo">
-        <router-link to="/app"><span class="primary-word">云票儿</span> 管理平台</router-link>
+        <router-link to="/app"><span class="primary-word">Vue Admin</span> 管理平台</router-link>
       </header>
       <ul class="nav">
         <NavLink

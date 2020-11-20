@@ -3,7 +3,7 @@
     <b-container>
       <h5 class="auth-logo">
         <i class="fa fa-circle text-primary"></i>
-        云票儿<i class="fa fa-circle text-danger"></i>
+        Vue Admin<i class="fa fa-circle text-danger"></i>
       </h5>
       <Widget class="widget-auth mx-auto" title="<h3 class='mt-0'>Login to your Web App</h3>" customHeader>
         <p class="widget-auth-info">

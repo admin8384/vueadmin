@@ -1,4 +1,4 @@
-# Contributing to 云票儿云票儿tributions are welcome and are greatly appreciated! Every little bit helps, and credit
+# Contributing to tributions are welcome and are greatly appreciated! Every little bit helps, and credit
 will always be given.
 
 Please take a moment to review this document in order to make the contribution process easy and
@@ -114,5 +114,5 @@ The rest of the commit message is then used for this.
 
 ## License
 
-By contributing to 云票儿 agree that your contributions will be licensed under its
+By contributing to Vue Admin agree that your contributions will be licensed under its
 [MIT license](https://github.com/flatlogic/sing-app/blob/master/LICENSE).
