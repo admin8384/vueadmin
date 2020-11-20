@@ -12,9 +12,9 @@ vue后台模板
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  npm install
+2.  vue ui
+3.  运行编译
 
 #### 使用说明
 
