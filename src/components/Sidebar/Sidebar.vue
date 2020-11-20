@@ -12,7 +12,7 @@
         <NavLink
             :activeItem="activeItem"
             header="仪表盘"
-            link="/app/dashboard"
+            link="/dashboard"
             iconName="flaticon-home"
             index="dashboard"
             isHeader
@@ -20,7 +20,7 @@
         <NavLink
             :activeItem="activeItem"
             header="字体样式"
-            link="/app/typography"
+            link="/typography"
             iconName="flaticon-list"
             index="typography"
             isHeader
@@ -28,7 +28,7 @@
         <NavLink
             :activeItem="activeItem"
             header="表格"
-            link="/app/tables"
+            link="/tables"
             iconName="flaticon-equal-1"
             index="tables"
             isHeader
@@ -36,13 +36,13 @@
         <NavLink
             :activeItem="activeItem"
             header="组件"
-            link="/app/components"
+            link="/components"
             iconName="flaticon-network"
             index="components"
             :childrenLinks="[
-              { header: '图表', link: '/app/components/charts' },
-              { header: '图标', link: '/app/components/icons' },
-              { header: '地图', link: '/app/components/maps' },
+              { header: '图表', link: '/components/charts' },
+              { header: '图标', link: '/components/icons' },
+              { header: '地图', link: '/components/maps' },
             ]"
         />
       </ul>

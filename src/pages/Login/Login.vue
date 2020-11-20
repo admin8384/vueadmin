@@ -53,13 +53,13 @@ export default {
 
       if (email.length !== 0 && password.length !== 0) {
         window.localStorage.setItem('authenticated', true);
-        this.$router.push('/app/dashboard');
+        this.$router.push('/dashboard');
       }
     },
   },
   created() {
     if (window.localStorage.getItem('authenticated') === 'true') {
-      this.$router.push('/app/main/analytics');
+      this.$router.push('/main/analytics');
     }
   },
 };

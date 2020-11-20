@@ -38,7 +38,7 @@ export default new Router({
       component: ErrorPage,
     },
     {
-      path: '/app',
+      path: '/',
       name: 'Layout',
       component: Layout,
       children: [
