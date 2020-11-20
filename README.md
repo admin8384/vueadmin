@@ -7,7 +7,7 @@ vue后台模板
 软件架构说明
 
 #### 效果图
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1120/092015_664387d0_1733631.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1120/092015_664387d0_1733631.png "后台.png")
 
 #### 安装教程
 
